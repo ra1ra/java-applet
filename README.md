@@ -1,2 +1,3 @@
 # java-applet
-student mini profile creation
+This is a Java swing Applet wher we can create a miniprofile for student.
+
